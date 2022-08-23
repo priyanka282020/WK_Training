@@ -1,0 +1,10 @@
+let marks= new Array(55,49,93,85,35);
+let misk = ["maruti", "Tata", 15, "mahindra" ,122]; //You can declaim array with different data type also 
+let count=[]; //you can also declaim array like this with no size 
+
+console.log(misk)
+
+console.log(marks)
+
+let cars = ["maruti", "Tata", "mahindra"];
+console.log(cars)
